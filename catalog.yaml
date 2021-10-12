@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ignacio-test
+  description: A test repo
+spec:
+  type: service
+  owner: ignacio.dominguez@zego.com
+  lifecycle: experimental
