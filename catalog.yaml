@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: ignacio-test
   description: A test repo
+  links:
+    - url: https://dashboard.example.com
+      title: Ignacio Test
+      icon: dashboard
 spec:
   type: service
   owner: ignacio.dominguez@zego.com
