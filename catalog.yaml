@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: ignacio-test
   description: A test repo
+  labels:
+    custom-field-1: custom1
+    custom-field-2: custom2
   links:
     - url: https://dashboard.example.com
       title: Ignacio Test
@@ -11,3 +14,4 @@ spec:
   type: service
   owner: ignacio.dominguez@zego.com
   lifecycle: experimental
+  custom-spec: test
