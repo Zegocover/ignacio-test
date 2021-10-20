@@ -12,6 +12,6 @@ metadata:
       icon: dashboard
 spec:
   type: service
-  owner: ignacio.dominguez@zego.com
+  owner: guest@example.com
   lifecycle: experimental
   custom-spec: test
