@@ -12,6 +12,6 @@ metadata:
       icon: dashboard
 spec:
   type: service
-  owner: ignacio.dominguez
+  owner: security
   lifecycle: experimental
   custom-spec: test
