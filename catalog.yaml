@@ -12,6 +12,6 @@ metadata:
       icon: dashboard
 spec:
   type: service
-  owner: security
+  owner: engineeringengineersecurity
   lifecycle: experimental
   custom-spec: test
