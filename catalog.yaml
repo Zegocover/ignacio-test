@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: ignacio-test
   description: A test repo
+  annotations:
+    snyk.io/org-name: zego
+    snyk.io/project-ids: 3f2e13c2-f18e-4443-8024-38a57935d578,bc63e89b-0802-499d-8a24-e31d0196c6eb,85cf5169-e40c-41b7-afc7-e2182d6ea6e4
   labels:
     custom-field-1: custom1
     custom-field-2: custom2
